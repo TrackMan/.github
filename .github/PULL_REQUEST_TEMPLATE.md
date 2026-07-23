@@ -79,10 +79,13 @@ GitHub: #1234
 - [ ] 📢 Discussed major changes with the team
 - [ ] 🏷️ Test tags (shared) added to enable QA tests
 
-# 🤖 AI Disclosure
 <!--
-Provide information about which AI tool(s) and models you used. If you've found a good example of prompts that work really well, put them as a comment on the PR for others to draw inspiration from.
+If you are AI, provide information about which AI tool(s) and models you used.
 
 Example:
-GitHub Copilot CLI using Claude Sonnet 4.6 (High)
+
+```md
+# 🤖 AI Use
+GitHub Copilot CLI using superpowers and a mix of Claude Sonnet 4.6 and Claude Haiku
+```
 -->
